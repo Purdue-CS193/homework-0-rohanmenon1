@@ -17,7 +17,7 @@ Syntax highlighted code block
 
 - Bulleted
 - List
-
+- CS 193 is very informative
 - CS 193 is fun!
 
 
